@@ -6,7 +6,7 @@ We used a Continuous-Time Hidden Markov Model to model the progression of
 Amytrophic Lateral Sclerosis (ALS). More information about the project and our
 findings can be found in our paper.
 
-### Usage
+## Usage
 
 The following command can be used to test/train our model. More information can be found by using the `-h` flag.
 ```
